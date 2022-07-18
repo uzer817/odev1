@@ -8,4 +8,4 @@ Mehmetin ilk ödevi
 
 <h3> görüntüler </h3>
 
-![] (odev.gif)
+![](odev.gif.gif)
