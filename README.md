@@ -1,10 +1,10 @@
 <h1> mehmet # odev1 projesi </h1>
 
-Mehmetin ilk ödevi
+Mehmetin projesi
 
 <h2> harici durumlar </h2>
 
-Öğretmen ise githup taki projeyi görür.
+githup'taki proje
 
 <h3> görüntüler </h3>
 
